@@ -1,0 +1,2 @@
+.. Redux is mainly used for State Management!  
+Redux ek powerful tool hai jo state management ko streamline karta hai aur application ko maintainable banata hai.
